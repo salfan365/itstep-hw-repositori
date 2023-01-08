@@ -1,0 +1,91 @@
+*
+{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body
+{
+	font-family: Arial, sans-serif;
+	font-size: 16px;
+	line-height: 1.4em;
+	color: #555;
+	background-color: #ccccae;
+}
+
+table
+{
+	border-collapse: collapse;
+}
+
+.wrapper
+{
+	margin: 10px auto;
+	width: 750px;
+}
+
+.menu img
+{
+	margin: -4px 0;
+}
+
+.header
+{
+	width: 750px;
+	height: 201px;
+	background-image: url(IMAGES/INDEX_01.GIF);
+}
+
+.sidebar
+{
+	width: 167px;
+	background-image: url(IMAGES/INDEX_10.GIF);
+	vertical-align: top;
+}
+
+.right
+{
+	width: 66px;
+	background-image: url(IMAGES/INDEX_04.GIF);
+}
+
+.content
+{
+	width: 517px;
+	background-color: #dedeca;
+	padding: 10px;
+}
+
+.footer
+{
+	width: 750px;
+	height: 47px;
+	background-image: url(IMAGES/INDEX_11.GIF);
+}
+
+p 
+{
+	text-align: justify;
+	text-indent: 20px;
+}
+
+.home p 
+{
+	text-align: center;
+}
+
+h2
+{
+	text-align: center;
+	margin: 15px;
+	color: #541902;
+	font-size: 1.3em;
+}
+
+a
+{
+	color: coral;
+	text-decoration: none;
+	
+}
